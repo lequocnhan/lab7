@@ -1,17 +1,9 @@
-# user_manager_app
 
-A new Flutter project.
+https://drive.google.com/drive/folders/1XNuS9jviUOKZpVPbNJBL5QCau_a3c9I2
+Dưới đây là một bài giới thiệu tóm tắt cấu trúc và nội dung bài Lab 7 của bạn. Bạn có thể dùng đoạn này để ghi vào file README.md trên GitHub, làm slide thuyết trình, hoặc gửi làm báo cáo bài tập nhé!
 
-## Getting Started
+BÁO CÁO BÀI TẬP: LAB 7 - ỨNG DỤNG QUẢN LÝ NGƯỜI DÙNG (USER MANAGER APP)
+📌 Giới thiệu tổng quan
+Bài Lab 7 tập trung vào việc xây dựng giao diện và xử lý logic cho các tính năng cơ bản của một ứng dụng quản lý người dùng, cụ thể là màn hình Đăng nhập (Login Screen).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ứng dụng được phát triển trên nền tảng Flutter sử dụng ngôn ngữ Dart, áp dụng các chuẩn thiết kế giao diện theo phong cách Material Design và xử lý kiểm tra tính hợp lệ của dữ liệu đầu vào (Form Validation).
